@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Financial Reconciliation and Exception Workbench",
+    "folder": "fullstack/financial-reconciliation-and-exception-workbench-fullstack",
+    "repository": "Python-Full-Stack",
+    "url": "https://github.com/dev-adelash/Python-Full-Stack/tree/main/fullstack/financial-reconciliation-and-exception-workbench-fullstack",
+    "description": "Built a Vue.js and FastAPI application workbench for signed callbacks, SQLite reconciliation and reviewer approvals. Kept financial calculations deterministic and retained audit records. Verified duplicate events, signature failures and conflicting approvals with pytest using synthetic invoices."
+  },
+  {
+    "title": "Ecommerce Order and Inventory Platform",
+    "folder": "fullstack/ecommerce-order-and-inventory-platform-fullstack",
+    "repository": "Python-Full-Stack",
+    "url": "https://github.com/dev-adelash/Python-Full-Stack/tree/main/fullstack/ecommerce-order-and-inventory-platform-fullstack",
+    "description": "Created a Next.js and Node.js application application for versioned reservations, shipment, cancellation and refund transitions. Added replay-safe request keys and a retryable outbox fixture. Verified stock conflicts and recovery behavior with shared TypeScript tests and documented the local-state boundary."
+  },
+  {
+    "title": "Education Learning and Assessment Portal",
+    "folder": "fullstack/education-learning-and-assessment-portal-fullstack",
+    "repository": "Python-Full-Stack",
+    "url": "https://github.com/dev-adelash/Python-Full-Stack/tree/main/fullstack/education-learning-and-assessment-portal-fullstack",
+    "description": "Created an Angular and NestJS assessment application with deterministic scoring and explicit instructor review. Protected feedback publication with role and expected-version checks and retained audit histories. Verified repeated submissions and stale approvals with shared TypeScript tests using synthetic learner records."
+  }
+]

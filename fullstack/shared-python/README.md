@@ -1,0 +1,1 @@
+Python workflow code is copied here when preparing the stack repository, so the finance project has a self-contained FastAPI backend dependency.

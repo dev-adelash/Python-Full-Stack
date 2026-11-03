@@ -1,0 +1,1 @@
+import {engine} from '../../../lib/state';export const runtime='nodejs';export async function GET(r:Request){return r.headers.get('Authorization')==='Bearer local-operator'?Response.json(engine.state()):Response.json({detail:'Operator required'},{status:403})}
