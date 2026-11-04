@@ -32,4 +32,4 @@ Backend implementations are shared with the corresponding language demos to prev
 
 ## Portfolio
 
-[View this stack’s work](https://adelash.vercel.app/python-full-stack) · [Email Adel Ash](mailto:adelash.work@gmail.com)
+[View this stack’s work](https://adelash.vercel.app/python-full-stack) · [Email Adel Ash](mailto:tech.dev.workspace@gmail.com)
